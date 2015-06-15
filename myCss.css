@@ -1,0 +1,83 @@
+/* 	myCss.css stylesheet file
+	TE FSD Assignment, Digital Skills Academy
+	Secure User login
+	by Andrei Rjabokon 09/06/2015
+	andrei.rjabokon att techelevate.net
+	Student ID: D14128497
+	ver1.7
+	updated 15/06/2015 */
+
+html {
+	margin: 0 auto;
+	background:#E0E0E0;
+	font-family: Tahoma;
+}
+
+input {
+	margin: 2px;
+}
+
+#userLoginDiv  {
+	text-align: left;
+	background: -webkit-gradient(linear, left top, right bottom, from(#bbb), to(#eee));
+	padding: 20px;
+	width: 70%;
+	box-shadow: 2px 3px 5px #000;
+	min-height: 24px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#loginDiv {
+	text-align: right;
+	background: -webkit-gradient(linear, left top, right bottom, from(#bbb), to(#eee));
+	padding: 20px;
+	box-shadow: 2px 3px 5px #000;
+	min-height: 24px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 240px;
+}
+
+#aDiv {
+	text-align:right;
+	font-size:12px;
+}
+
+#registerDiv {
+	text-align: right;
+	background: -webkit-gradient(linear, left top, right bottom, from(#bbb), to(#eee));
+	padding: 20px;
+	box-shadow: 2px 3px 5px #000;
+	min-height: 24px;
+	margin: 10px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 240px;
+}
+
+#requiredLabel {
+	position: relative;
+	text-align: right;
+	font-size: 12px;
+}
+
+a {
+	position: relative;
+	font-size: 12px;
+	text-align: right;
+}
+
+h4 {
+	text-align: center;
+}
+
+h5 {
+	text-align: center;
+}
+
+button {
+	margin: 10px;
+}
